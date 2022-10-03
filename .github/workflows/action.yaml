@@ -6,9 +6,13 @@ on:
 permissions:
   id-token: write
   pages: write
+  deployments: write
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment:
+      name: github.pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v3
       - name: Use Node.js
