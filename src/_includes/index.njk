@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="{{ description }}" />
+
+    <meta property="og:title" content="{{ title }} - Akash Chaudhari" />
+    <meta property="og:type" content="article" />
+    <meta property="og:description" content="{{ description }}" />
+    <meta property="og:url" content="{{ page.url }}" />
+    <meta property="og:image" content="/static/images/og-image.jpg" />
+
+    <link type="text/plain" rel="author" href="/static/humans.txt" />
+
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@700&family=Inconsolata:wght@400&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="/static/css/index.css" />
+    <title>{{ title }} - Akash Chaudhari Blog</title>
+  </head>
+  <body>
+    <div class="top-bar"></div>
+    <div class="container">
+      <header class="sidebar">
+        <a href="/"
+          ><img
+            src="/static/images/profile.png"
+            alt="profile"
+            width="80"
+            height="80"
+            class="radius-50"
+        /></a>
+        <div class="sidebar-text">
+          <nav class="sections">
+            <ul>
+              <li><a href="/blog">blog</a></li>
+              <li><a href="/3day">3day</a></li>
+              <li><a href="/checklist">checklist</a></li>
+              <li><a href="/startups">startups</a></li>
+              <li><a href="/seminars">seminars</a></li>
+            </ul>
+          </nav>
+        </div>
+      </header>
+      <div class="section">
+        {{ content | safe }}
+      </div>
+      <footer class="section">
+        <span class="footer-note">Thanks for Reading 🎧 </span>
+        <a
+          href="https://twitter.com/akazyti?ref_src=twsrc%5Etfw"
+          class="twitter-follow-button"
+          data-show-count="false"
+          >Follow @akashyti</a
+        >
+        <script
+          async
+          src="https://platform.twitter.com/widgets.js"
+          charset="utf-8"
+        ></script>
+      </footer>
+    </div>
+  </body>
+</html>

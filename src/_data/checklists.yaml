@@ -1,0 +1,163 @@
+---
+- checklistName: Concepts
+  checklist:
+  - name: Finite-Automata 
+    status: superman
+  - name: Actor-System
+    status: enough
+  - name: compiler-design
+    status: enough
+  - name: Algorithms
+    status: champ
+  - name: Networking
+    status: champ
+  - name: database
+    status: champ
+  - name: OS
+    status: champ
+  - name: serverless
+    status: champ
+  - name: microservices
+    status: champ
+  - name: matrix
+    status: champ
+- checklistName: Tech/Framework
+  checklist:
+  - name: HTML
+    status: superman
+  - name: CSS
+    status: champ
+  - name: JavaScript
+    status: superman
+  - name: less
+    status: champ
+  - name: scss
+    status: champ
+  - name: mysql
+    status: enough
+  - name: npm
+    status: superman
+  - name: yarn
+    status: superman
+  - name: nx
+    status: noob
+  - name: lerna
+    status: enough
+  - name: PostgreSql
+    status: enough
+  - name: firebase
+    status: superman
+  - name: serverless
+    status: superman
+  - name: yaml
+    status: noob 
+  - name: json
+    status: superman
+  - name: angular
+    status: champ
+  - name: docker
+    status: enough
+  - name: nginx
+    status: champ
+  - name: React
+    status: superman
+  - name: react-native
+    status: champ
+  - name: express
+    status: superman
+  - name: Frappe
+    status: champ
+  - name: ERPNext
+    status: champ
+  - name: Django
+    status: enough
+  - name: apollo-client
+    status: champ
+  - name: apollo-server
+    status: champ
+  - name: Redux
+    status: noob
+  - name: XState
+    status: noob
+  - name: NestJS
+    status: noob
+  - name: Vue
+    status: noob
+  - name: aws
+    status: enough
+  - name: gcp
+    status: enough
+  - name: alibaba-cloud
+    status: champ
+  - name: digitalocean
+    status: champ 
+  - name: linode
+    status: champ
+  - name: Git
+    status: champ
+  - name: Circle-CI
+    status: superman
+  - name: kubernetes
+    status: noob
+  - name: jenkins
+    status: noob
+  - name: github-workflow
+    status: noob
+  - name: ansible
+    status: noob
+  - name: Apache
+    status: noob
+  - name: supervisor
+    status: noob
+  - name: ps4
+    status: noob
+  - name: terraform
+    status: noob
+  - name: Heroku
+    status: noob
+  - name: cloudfare
+    status: noob
+  - name: netlify
+    status: champ
+  - name: prometheus
+    status: noob
+  - name: flask
+    status: noob 
+- checklistName: Programming Languages
+  checklist:
+  - name: JavaScript 
+    status: superman
+  - name: TypeScript
+    status: champ
+  - name: Python
+    status: superman
+  - name: Java
+    status: enough
+  - name: Scala
+    status: enough
+  - name: Go
+    status: enough
+  - name: Rust
+    status: enough
+  - name: Elixr
+    status: noob
+  - name: SQL
+    status: champ
+  - name: GraphQL
+    status: champ
+  - name: bash
+    status: enough
+  - name: C
+    status: champ
+  - name: C#
+    status: noob
+  - name: C++
+    status: noob
+- checklistName: Cooking
+  checklist:
+  - name: Rooti
+    status: superman
+  - name: Tea
+    status: superman
+  - name: Cofee
+    status: noob
