@@ -1,0 +1,8 @@
+/* TEAM */
+Thanks to Akash Chaudhari for the role of Developer.
+Thanks to Adarsh Chaudhari for the role of Developer.
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Eleventy
