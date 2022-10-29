@@ -16,9 +16,6 @@ I am not a writer nor i want to so you can call me a occational writer. especial
 
 I did my first startup in my college in 2016 that went from proof of concept to ₹200K($3000) seed funding to our first ₹100K ($1500) customer. but then due lack of team enthusiasm and knowledge didn't make it so far. i don't think that i didn't learn anything out of it. you can find my full list [here](./startups).
 
-### 3day
-
-3day is a hack i use to analyze my time efficiency. it is a point based and tag based system i use to improve myself, not only the code but also activities in my life. you can find a full list [here](./3day/list) i fully analyze my time efficiency it sometimes increases, sometimes i don't know 🤣️.
 
 ### Checklist
 
