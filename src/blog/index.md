@@ -7,7 +7,7 @@ description: Blog Homepage for Akash Chaudhari
 
 I am a occational writer and here i write don't explain any tech like react but write about life and people and lifelong learnings.
 
-### Pined
+### Blogs 
 
 <div class="blogList" >
 {% for pins in collections.pins %}

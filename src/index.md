@@ -10,7 +10,7 @@ Heya I run a Software Service company called [Zaspi!!](https://zaspi.in) Where W
 
 ### Blog
 
-I am not a writer nor i want to so you can call me a occational writer. especially on this blog, I don't want to explain any tech or framework like react but i sometimes write about things life and different kind of people had taught me since so far. I did my first job at age 13 and since then i met thousand of peoples with 1000's of stories and experiences with me. i write on that here...
+I am not a writer nor i want to so you can call me a occasional writer. especially on this blog, Here i want to explain tech what i have learned so far and about life and different kind of people had taught me since so far. I did my first job at age 13 and since then i met thousand of peoples with 1000's of stories and experiences with me. i write on that here...
 
 ### Startups
 

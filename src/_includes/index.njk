@@ -42,13 +42,13 @@
               <li><a href="/blog">blog</a></li>
               <li><a href="/checklist">checklist</a></li>
               <li><a href="/startups">startups</a></li>
-              <li><a href="/seminars">seminars</a></li>
             </ul>
           </nav>
         </div>
       </header>
       <div class="section">
         {{ content | safe }}
+        {% block cnt %} {% endblock %}
       </div>
       <footer class="section">
         <span class="footer-note">Thanks for Reading 🎧 </span>

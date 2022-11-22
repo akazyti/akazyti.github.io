@@ -1,0 +1,72 @@
+[
+  {
+    "name": "zaspi",
+    "timeline": [
+      {
+        "title": "A Old School",
+        "year": "2020",
+        "content": "I did my first Interaction with a software development company and they were too slow for startups... so i made one for velocity.. we make softwares like cake "
+      },
+      {
+        "title": "New Members",
+        "year": "2021",
+        "content": "I Scaled my company to 4 Members... ₹40L in revenue... ₹15L in profits..."
+      },
+      {
+        "title": "Even New Members",
+        "year": "2022",
+        "content": "I Scaled even big .... 8 Members .... ₹10L in first quarter .... ₹2L in profits.. i was scaling so profits was going in toilet..."
+      }
+    ]
+  },
+  {
+    "name": "Neatswitch",
+    "timeline": [
+      {
+        "year": "2016",
+        "title": "a kid",
+        "content": "it was just an idea to merge IOT with AI to build something amazing, My Initial MVP was a Simple IOT Device that detects human daily routine and automates switches "
+      },
+      {
+        "year": "2017",
+        "title": "a breaking toy",
+        "content": "I made a Initial Prototype where major Circuit development is done by my other friends and server side development by me ... it was breaking like hell..."
+      },
+      {
+        "year": "2018",
+        "title": "kid got big",
+        "content": "We Got initial Funding of ₹200K which i thought was too big..."
+      },
+      {
+        "year": "2018",
+        "title": "i convinced some big guys",
+        "content": "There was a small subcontractor in our College Area who wanted to install our project in his build flats .. i sold when it was not even completely built.. super good thing was i sold it for ₹100K as setup and installment"
+      },
+      {
+        "year": "2019",
+        "title": "The End...",
+        "content": "I was not able to complete the entire project... Server side was done ... but circuit there i lacked knowledge... i think you need talented and reliable team to build something.."
+      }
+    ]
+  },
+  {
+    "name": "InCampus",
+    "timeline": [
+      {
+        "title": "A Interaction Platform",
+        "year": "2019",
+        "content": "I found a Gap between technology leaders and our ongoing education, why IIT's and MIT's have success is not because they have good teachers but ecosystem produces top notch leaders"
+      },
+      {
+        "title": "First Seminar",
+        "year": "2020",
+        "content": "I did first Seminar, Previously my college teachers became my student in this one..., sadly didn't make any $$$, but was featured in Local newspaper"
+      },
+      {
+        "title": "Second Seminar",
+        "year": "2021",
+        "content": "This year i did 2 Seminars, students from IIT's Came to this one..., sadly didn't make any $$$"
+      }
+    ]
+  }
+]

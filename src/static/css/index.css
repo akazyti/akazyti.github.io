@@ -263,3 +263,29 @@ b {
     flex-direction: row;
   }
 }
+
+/* Timeline */
+
+.bar {
+  width: 10px;
+  background-color: #ef4e7b;
+  min-height: 150px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.timeline_text {
+  padding: 0px 10px 20px 10px;
+}
+
+.circle {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin-left: -5px;
+  background-color: orange;
+}
+
+.no-top-margin {
+  margin-top: 0px !important;
+}

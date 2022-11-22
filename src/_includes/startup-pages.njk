@@ -1,0 +1,19 @@
+{% extends "index.njk" %}
+
+{% block cnt %}
+<h1>{{startup.name}} </h1>
+
+
+{% for item in startup.timeline %}
+  <div style="display: flex">
+    <div class="bar">
+      <div class="circle">
+      </div>
+    </div>
+    <div class="timeline_text">
+    <h4 class="no-top-margin"> {{item.year}} - {{item.title}}  </h4>
+    <p>{{item.content}} </p>
+    </div>
+  </div>
+{% endfor %}
+{% endblock %}
