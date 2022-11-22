@@ -289,3 +289,10 @@ b {
 .no-top-margin {
   margin-top: 0px !important;
 }
+
+table,
+th,
+td {
+  border: 1px solid black;
+  padding: 20px;
+}
