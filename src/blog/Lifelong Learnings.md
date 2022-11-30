@@ -19,12 +19,12 @@ This is the clutter list of things i learned so far
 - You Need Good Friends ...
 - Take a Loan if Inflation is More than Interest Rate!!
 - Rich don't look bad...
-- Always keep your mental helth and happiness First Priority
+- Always keep your mental health and happiness First Priority
 
 ### 2021
 
 - you just need a purple cow or a dog!!
-- Friendship with successfull  can make you more successfull then PHD degree from MIT
+- Friendship with successful  can make you more successful then PHD degree from MIT
 - Stream beats the rock, Frequency beats the quality
 - It's not technology or talent or anything but it's people
 - The Concept of supply and demand is universal
@@ -33,9 +33,9 @@ This is the clutter list of things i learned so far
 
 ### 2020
 
-- Your choises make you!!
+- Your choices make you!!
 - It's hard to nail
-- You get what you pay for. goning too cheap is sometimes called time waste.
+- You get what you pay for. going too cheap is sometimes called time waste.
 - Talent is valued a Pinch of a Salt
 - Choose Luck over talent
 

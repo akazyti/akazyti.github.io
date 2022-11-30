@@ -5,7 +5,7 @@ description: Blog Homepage for Akash Chaudhari
 ---
 # Blog
 
-I am a occational writer and here i write don't explain any tech like react but write about life and people and lifelong learnings.
+I am a occasional writer .... writes about tech, life.....
 
 ### Blogs 
 

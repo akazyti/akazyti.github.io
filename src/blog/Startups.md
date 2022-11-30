@@ -2,7 +2,7 @@
 layout: index.njk
 title: my startup learnings and why they fail.
 tags: pins
-date: 2022-11-12
+date: 2022-04-12
 keywords: startup, learnings 
 description: My Learnings About Startups ecosystem .....
 ---
