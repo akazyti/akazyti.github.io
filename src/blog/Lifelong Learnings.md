@@ -12,6 +12,8 @@ description: Things that are different in life than what is thought to us
 This is the clutter list of things i learned so far
 
 ### 2022
+- Non Caring and Self loving is key to happiness
+- You and only You can make yourself happy! 
 - Animal do, Human do much more worse than it... 
 - Choose reliable over talented
 - Be very clear about $$$...
