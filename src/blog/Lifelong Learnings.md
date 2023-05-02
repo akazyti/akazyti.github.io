@@ -11,6 +11,12 @@ description: Things that are different in life than what is thought to us
 
 This is the clutter list of things i learned so far
 
+### 2023
+
+- Don't share your memories
+- Alone and death is real truth
+- Sole is no more valued!
+
 ### 2022
 - Non Caring and Self loving is key to happiness
 - You and only You can make yourself happy! 
