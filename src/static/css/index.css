@@ -247,6 +247,8 @@ b {
   margin: 10px 10px 10px 0px;
 }
 
+
+
 /* Blog */
 
 .blogList ul li {
@@ -295,4 +297,11 @@ th,
 td {
   border: 1px solid black;
   padding: 20px;
+}
+
+
+/* extras */
+
+p > img {
+  width: 100%;
 }
