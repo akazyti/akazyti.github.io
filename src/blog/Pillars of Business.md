@@ -1,7 +1,8 @@
 ---
 layout: index.njk
 title: Pillars of Business
-date: 2022-04-12
+tags: pins
+date: 2022-10-26
 keywords: startup, business 
 description: Things i learned about business and startups .....
 ---
